@@ -1,0 +1,23 @@
+{
+  "name": "LOQMA | لُقمة",
+  "short_name": "LOQMA",
+  "description": "مطعم عربي معاصر",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F2",
+  "theme_color": "#35452F",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/images/branding/logo-ar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/branding/logo-ar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
